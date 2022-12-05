@@ -2,8 +2,13 @@
 name = "transcoder"
 version = "0.1.0"
 edition = "2021"
-description="Transcode audio & video into other formats using parameters such as:Bit rate,Frame rate,Resolution,Aspect ratio,Seek position,Duration,Sample rate,Media format etc."
-
+description = "Transcode audio & video into other formats using parameters such as:Bit rate,Frame rate,Resolution,Aspect ratio,Seek position,Duration,Sample rate,Media format etc."
+license = "MIT"
+homepage = "https://github.com/zredb/transcoder.git"
+repository = "https://github.com/zredb/transcoder.git"
+readme = "https://github.com/zredb/transcoder.git/README.md"
+keywords = ["videos", "audios","transcode", "FFmpeg", "tools"]
+categories = ["command-line-utilities", "tools", "FFmpeg"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
