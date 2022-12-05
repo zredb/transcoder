@@ -6,7 +6,7 @@ description = "Transcode audio & video into other formats using parameters such 
 license = "MIT"
 homepage = "https://github.com/zredb/transcoder.git"
 repository = "https://github.com/zredb/transcoder.git"
-readme = "https://github.com/zredb/transcoder/blob/master/README.md"
+readme = "README.md"
 keywords = ["videos", "audios","transcode", "FFmpeg", "tools"]
 categories = ["command-line-utilities", "tools", "FFmpeg"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
