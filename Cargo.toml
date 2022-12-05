@@ -1,0 +1,9 @@
+[package]
+name = "transcoder"
+version = "0.1.0"
+edition = "2021"
+description="Transcode audio & video into other formats using parameters such as:Bit rate,Frame rate,Resolution,Aspect ratio,Seek position,Duration,Sample rate,Media format etc."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
